@@ -1,0 +1,47 @@
+.header_image {
+    height: 250px;
+    width: 100%;
+}
+
+.col-sm-4 {
+    padding: 1px;
+}
+
+.meni {
+    background-color: #0D5420;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+}
+
+.meni a {
+    color: white;
+}
+
+.meni a:hover {
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.sides {
+    background-color: lightgray;
+    height: 600px;
+}
+
+.col-sm-8 {
+    padding: 0px;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.dugme {
+    background-color: lightyellow;
+}
